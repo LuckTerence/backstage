@@ -224,6 +224,7 @@ const config: Config = {
     ],
   ],
   markdown: {
+    mermaid: true,
     preprocessor({ fileContent }) {
       // Replace all HTML comments with empty strings as these are not supported by MDXv2.
       function removeHtmlComments(input) {
@@ -431,7 +432,10 @@ const config: Config = {
       },
     ],
   ],
-  themes: ['docusaurus-theme-openapi-docs'],
+  themes: [
+    'docusaurus-theme-openapi-docs',
+    '@docusaurus/theme-mermaid',
+  ],
   themeConfig: {
     metadata: [
       {
