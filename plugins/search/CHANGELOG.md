@@ -1,5 +1,14 @@
 # @backstage/plugin-search
 
+## 1.7.8-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/ui@0.18.0-next.1
+  - @backstage/core-components@0.18.14-next.1
+  - @backstage/plugin-catalog-react@3.2.3-next.1
+
 ## 1.7.8-next.0
 
 ### Patch Changes

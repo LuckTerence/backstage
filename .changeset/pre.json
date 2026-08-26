@@ -238,6 +238,7 @@
     "calm-taxis-listen",
     "catalog-import-owner-entity-ref",
     "create-app-1787665840",
+    "create-app-1787734183",
     "elasticsearch-empty-type-guard",
     "fast-build-workspaces",
     "fix-entity-owner-picker-humanized-refs",
@@ -255,6 +256,7 @@
     "silver-pandas-battle",
     "task-recovery-feature",
     "tidy-pandas-juggle",
+    "tidy-routes-navigate",
     "tidy-toasts-smile",
     "v-mp-s-c",
     "watch-functionality"

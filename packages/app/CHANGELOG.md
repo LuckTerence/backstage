@@ -1,5 +1,30 @@
 # example-app
 
+## 0.0.39-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/ui@0.18.0-next.1
+  - @backstage/core-app-api@1.20.5-next.1
+  - @backstage/core-components@0.18.14-next.1
+  - @backstage/plugin-api-docs@0.14.5-next.1
+  - @backstage/plugin-app@0.5.3-next.1
+  - @backstage/plugin-app-visualizer@0.2.8-next.1
+  - @backstage/plugin-auth@0.1.12-next.1
+  - @backstage/plugin-catalog@2.0.9-next.1
+  - @backstage/plugin-catalog-graph@0.6.8-next.1
+  - @backstage/plugin-catalog-react@3.2.3-next.1
+  - @backstage/plugin-catalog-unprocessed-entities@0.2.35-next.1
+  - @backstage/plugin-devtools@0.1.43-next.1
+  - @backstage/plugin-notifications@0.5.21-next.1
+  - @backstage/plugin-org@0.7.9-next.1
+  - @backstage/plugin-scaffolder@1.39.0-next.1
+  - @backstage/plugin-scaffolder-react@2.1.0-next.1
+  - @backstage/plugin-search@1.7.8-next.1
+  - @backstage/plugin-techdocs@1.18.1-next.1
+  - @backstage/plugin-user-settings@0.9.7-next.1
+
 ## 0.0.39-next.0
 
 ### Patch Changes

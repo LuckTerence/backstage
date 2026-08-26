@@ -1,5 +1,15 @@
 # @backstage/plugin-user-settings
 
+## 0.9.7-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/ui@0.18.0-next.1
+  - @backstage/core-app-api@1.20.5-next.1
+  - @backstage/core-components@0.18.14-next.1
+  - @backstage/plugin-catalog-react@3.2.3-next.1
+
 ## 0.9.7-next.0
 
 ### Patch Changes
